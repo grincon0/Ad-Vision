@@ -10,22 +10,23 @@ Travis CI Status\
 
 * ViroReact
 * React Native
-* MongoDB
 * Express
 * Node.js
-* GraphQL
 * Cloud Vision API
-* AWS Product Advertising API
+* Bing Custom Search
 
 ## Team Members & Roles
 
-* Kelvin Jones || [Wizkym](https://github.com/Wizkym) || Viro-React implementation + Cloud Vision API + 3D component creation
-* George Rincon || [grincon0](https://github.com/grincon0) || Database implementation + ParticleSFX & Component Development
-* David Baker || [DavidDBaker](https://github.com/DavidDBaker) || 3D component testing + AWS Product Advertising API
+* Kelvin Jones || [Wizkym](https://github.com/Wizkym) || Viro-React implementation + Cloud Vision API 
+* George Rincon || [grincon0](https://github.com/grincon0) || ParticleSFX & 3D Component Development
+* David Baker || [DavidDBaker](https://github.com/DavidDBaker) || 3D component testing + Bing Web Search API
+
+## Demo
+![Trello](src/assets/images/demo.jpeg)
 
 ## Trello
-![Trello](/js/res/trello.png)
+![Trello](src/js/res/trello.png)
 
 ## Wireframe
-![Layout](/js/res/wire.png)
+![Layout](src/js/res/wire.png)
 
